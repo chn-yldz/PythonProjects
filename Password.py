@@ -1,5 +1,5 @@
 """
-Random password generation
+Random password creater
 """
 import time
 import random
